@@ -28,8 +28,8 @@ Multimodal-Emotion-AI/
 │   ├── train.py
 │   ├── evaluate.py
 │   └── inference.py
-├── demo/                   # Optional demo video/GIF
-├── app/                    # (Optional) Streamlit or Flask app
+├── demo/ 
+├── app/                
 │   └── app.py
 ├── requirements.txt
 ├── README.md
@@ -98,7 +98,7 @@ python src/evaluate.py
 
 - Integrate real-time webcam and microphone input
 - Add multilingual and multicultural emotion detection
-- Deploy using Streamlit or Flask
+- Deploy using Flask
 
 ---
 
@@ -106,7 +106,7 @@ python src/evaluate.py
 
 Feel free to reach out:
 
-- 📧 [adusumillivinayas@gmail.com](mailto:adusumillivinayas@gmail.com)
+- 📧 [vinay.adusumilli@outlook.com](mailto:vinay.adusumilli@outlook.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinayadusumilli)
 
 ---
