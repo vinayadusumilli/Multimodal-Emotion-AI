@@ -1,0 +1,3 @@
+models/*.h5
+results/*.keras
+results/*.npz
